@@ -1,5 +1,16 @@
-body{
-  background-color: gray;
+body {
+  background-color: rgb(255, 243, 243);
   color:black;
   font-family: Arial;
+}
+
+header {
+    background-color: red;
+    padding: 2em;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 32px;
+
 }
