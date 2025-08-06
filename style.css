@@ -1,4 +1,16 @@
 body{
-  backgroud-color;blue;
-  color;wite
+  backgroud-color: tomate;
+  color:white;
+  font-family:bold;
+  width:200 px;
+  heigth:200 px;
+
+  position:absoilute;
+  top:50 %;
+  left:50 %;
+  transform: translate (-50 %,50 %);
+
+  display:flex;
+  justify-content:center;
+  align-items:center;
 }
